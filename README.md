@@ -134,3 +134,6 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/) (medium)
 * [Candy](https://leetcode.com/problems/candy/) (hard) 
 * [Couples holding hands](https://leetcode.com/problems/couples-holding-hands/) (hard)
+
+## Get Started
+* [Power Of Four](https://leetcode.com/problems/power-of-four/editorial/) (easy) (Recursion, Math and Bit Manipulation)
